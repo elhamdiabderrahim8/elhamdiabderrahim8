@@ -22,6 +22,10 @@
 <a href="https://www.javascript.com" target="_blank"><img align="left" alt="JavaScript" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg"></a>
 <a href="https://nodejs.org" target="_blank"> <img align="left" alt="Node.js" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg"> </a>
 <a href="https://expressjs.com/" target="_blank"><img align="left" alt="Express.js" height ="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"></a>
+<a href="https://www.cprogramming.com/" target="_blank"><img align="left" alt="C" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/c/c.svg"></a>
+<a href="https://code.visualstudio.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" align="left" alt="vscode" height='42px'/> </a>
+<a href="https://developer.android.com/studio" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/android/android.svg" align="left" alt="android" height='42px'/> </a>
+
 <a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
 <a href="https://flask.palletsprojects.com/" target="_blank"> <img align="left" alt="Flask" height ="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg"> </a>
 <a href="https://flutter.dev" target="_blank"><img align="left" alt="Flutter" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/flutter/flutter.svg"></a>
