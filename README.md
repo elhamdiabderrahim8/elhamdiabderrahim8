@@ -1,9 +1,5 @@
 <div align="center" width="50">
-
-<div align="center" width="50">
-
 <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=40&duration=3000&color=00FF00&center=true&vCenter=true&width=600&lines=I+am+Abderrahim+Hamdi;Full-Stack+Developer;Security+Enthusiast" alt="I am Abderrahim Hamdi" width="60%"/> <br>
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/elhamdiabderrahim8" alt="Workspace"  width="40%"/><br> 
 
 <!-- reste du code ... -->
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/elhamdiabderrahim8" alt="Workspace"  width="40%"/><br> 
