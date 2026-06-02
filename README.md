@@ -1,206 +1,81 @@
-<div align="center">
+<div align="center" width="50">
 
-# 👋 Bienvenue ! Je suis **Abderrahim Hamdi**
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" href="https://github.com/elhamdiabderrahim8" alt="Hello Coders" width="60%"/> <br>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/elhamdiabderrahim8" alt="Workspace"  width="40%"/><br> 
 
-### Full-Stack Developer | Cybersecurity Enthusiast | Mobile Developer 🚀
+<details>
+<p><strong> <summary>  Coding & Vibing to :   </summary> </strong></p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=24&duration=3000&color=00D9FF&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Passionate+About+Security;Mobile+App+Developer;Football+%26+Gaming+Lover" alt="Typing SVG" />
+🎵 Football, Gaming, Security & Coffee ☕
 
----
-
-## 🎮 About Me
-
-Je suis un développeur **Full-Stack** passionné par la création d'applications web et mobiles sécurisées. Mon objectif est de construire des solutions robustes, scalables et **sécurisées** en combinant les meilleures pratiques de développement.
-
-- 💻 Actuellement en apprentissage du **Full-Stack Development** et de la **Cybersécurité**
-- 🔐 Passionné par la **sécurité des applications** et la gestion sécurisée des API Keys
-- 📱 En exploration avec **Flutter** pour le développement mobile
-- 🐧 Apprenti enthousiaste de **GNU/Linux**
-- ⚽ Amoureux du **football** et du **gaming** 🎮
-- 📚 Apprenant perpétuel qui adore découvrir nouvelles technologies
-
----
-
-## 🛠️ Stack Technologique
-
-### Frontend 🎨
-<a href="https://developer.mozilla.org/fr/docs/Web/HTML" target="_blank">
-<img src="https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-</a>
-<a href="https://developer.mozilla.org/fr/docs/Web/CSS" target="_blank">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-</a>
-<a href="https://www.javascript.com/" target="_blank">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-</a>
-
-### Backend 🖥️
-<a href="https://nodejs.org/fr/" target="_blank">
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-</a>
-<a href="https://expressjs.com/" target="_blank">
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
-</a>
-<a href="https://www.python.org/" target="_blank">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-</a>
-<a href="https://flask.palletsprojects.com/" target="_blank">
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
-</a>
-
-### Mobile Development 📱
-<a href="https://flutter.dev/" target="_blank">
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
-</a>
-<a href="https://developer.android.com/" target="_blank">
-<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android"/>
-</a>
-
-### Machine Learning & Data 🤖
-<a href="https://www.python.org/" target="_blank">
-<img src="https://img.shields.io/badge/Python_ML-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python ML"/>
-</a>
-<a href="https://www.json.org/" target="_blank">
-<img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" alt="JSON"/>
-</a>
-
-### Databases & Cloud 🗄️
-<a href="https://supabase.com/" target="_blank">
-<img src="https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/>
-</a>
-<a href="https://www.mongodb.com/" target="_blank">
-<img src="https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-</a>
-
-### DevOps & Outils 🔧
-<a href="https://git-scm.com/" target="_blank">
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-</a>
-<a href="https://code.visualstudio.com/" target="_blank">
-<img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
-</a>
-<a href="https://developer.android.com/studio" target="_blank">
-<img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" alt="Android Studio"/>
-</a>
-<a href="https://www.apachefriends.org/" target="_blank">
-<img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=apache&logoColor=white" alt="XAMPP"/>
-</a>
-
-### Apprentissage en cours 📖
-<a href="https://www.java.com/" target="_blank">
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
-</a>
-<a href="https://www.gnu.org/software/bash/" target="_blank">
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-</a>
-<a href="https://www.figma.com/" target="_blank">
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
-</a>
-
----
-
-## 🔐 Sécurité & Best Practices
-
-- ✅ Gestion sécurisée des **API Keys** et **Environment Variables**
-- ✅ Authentification et autorisation robustes
-- ✅ Validation des données côté serveur et client
-- ✅ Bonnes pratiques de **cryptographie** et **hachage**
-- ✅ Sensibilisation aux **OWASP Top 10 vulnerabilities**
-
----
-
-## 📊 Statistiques GitHub
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abderrahim-Hamdi&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=E0E0E0)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abderrahim-Hamdi&layout=compact&theme=tokyonight&bg_color=0D1117&title_color=00D9FF&text_color=E0E0E0)
-
+</details>
 </div>
 
----
+<hr></hr>
 
-## 🚀 Mes Projets
 
-### 📌 Full-Stack Projects
-Découvrez mes projets dans les repositories ci-dessous :
-- Applications web avec **Node.js + Express.js**
-- APIs **RESTful** sécurisées
-- Intégration **MongoDB** et **Supabase**
-- Projets **Machine Learning** avec Flask
+### 🔨 Languages and Tools:
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/html/html.svg" alt="html" height="42px"/> </a> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/css/css.svg" alt="css" height="42px"/> </a> 
+<a href="https://www.javascript.com" target="_blank"><img align="left" alt="JavaScript" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg"></a>
+<a href="https://nodejs.org" target="_blank"> <img align="left" alt="Node.js" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg"> </a>
+<a href="https://expressjs.com/" target="_blank"><img align="left" alt="Express.js" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/express/express.svg"></a>
+<a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
+<a href="https://flask.palletsprojects.com/" target="_blank"> <img align="left" alt="Flask" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/flask/flask.svg"> </a>
+<a href="https://flutter.dev" target="_blank"><img align="left" alt="Flutter" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/flutter/flutter.svg"></a>
+<a href="https://www.java.com" target="_blank"><img align="left" alt="Java" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/java/java.svg"></a>
+<a href="https://supabase.com/" target="_blank"> <img align="left" alt="Supabase" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/postgresql/postgresql.svg"> </a>
+<a href="https://www.mongodb.com" target="_blank"><img align="left" alt="MongoDB" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/mongodb/mongodb.svg"></a>
+<a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='42px'/> </a>
+<a href="https://www.figma.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg" alt="figma" height='42px'/> </a>
 
-### 📱 Mobile Projects
-- Applications **Flutter** modernes
-- Développement **Android** natif
+<br>
 
-Visitez mon [GitHub](https://github.com/Abderrahim-Hamdi) pour voir tous mes projets ! 🎯
+```javascript
+// tools_I_use organized
 
----
-
-## 🎯 Objectifs de Carrière
-
+class AboutAbderrahim { 
+  const myTools = {  
+    "Frontend" : { "HTML", "CSS", "JavaScript", "Figma" },
+    "Backend" : { "Node.js", "Express.js", "Python", "Flask" },
+    "Mobile" : { "Flutter", "Android Studio" },
+    "Database" : { "Supabase", "MongoDB" },
+    "Tools" : { "Git", "VS Code", "XAMPP", "JSON" },
+    "Learning" : { "Java", "C", "Linux", "Cybersecurity" }
+  };
+}
 ```
-Débutant → Intermédiaire → Expert en Full-Stack Development
-                              ↓
-                      Spécialisation en Cybersécurité
-                              ↓
-                    Développeur Sécurité Fullstack
-```
 
----
+-  <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; I'm currently learning **Full-Stack Development & Cybersecurity**. <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" /><br>
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I like exploring **GNU/Linux** & Secure Development. <br>
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about **Security, Web Development, or Gaming**. <br>
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; Find me on Telegram: **[@abderrahim115](https://t.me/abderrahim115)** or LinkedIn: **[Abderrahim Hamdi](https://www.linkedin.com/in/abderrahim-hamdi-490717390/)**<br>
+- &nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Fun fact: Writing secure code for one hour prevents **1000 potential bugs**.<br>
 
-## 💬 Connexion avec Moi
+<div align="center" >
+<a  href="https://github.com/elhamdiabderrahim8">
 
-<div align="center">
+<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32.5%">
+<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%">
+<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32.5%">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abderrahim-hamdi-490717390/)
-[![Telegram](https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/AbderrahimHamdi)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abderrahim-Hamdi)
+</a>
 
-### 📧 N'hésitez pas à me contacter pour :
-- 💼 Opportunités professionnelles
-- 🤝 Collaborations sur des projets
-- 💡 Discussions sur la technologie et la sécurité
-- ⚽ Parler football et gaming ! 🎮
+<details>
+  <summary>More stats</summary>
+  
+<img align="center" src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/0-profile-details.svg" >
 
-</div>
+</details>
+  
+<hr></hr>
 
----
+**Code Cycle**<br>
 
-## 📚 En Apprentissage
-
-| Technologie | Niveau | Progression |
-|-------------|--------|------------|
-| **Full-Stack Development** | Débutant | ████████░░ 80% |
-| **Cybersécurité** | Débutant | ██████░░░░ 60% |
-| **Flutter** | Débutant | █████░░░░░ 50% |
-| **MongoDB** | Débutant | ██████░░░░ 60% |
-| **Linux** | Débutant | ███████░░░ 70% |
-| **Figma** | Débutant | ████░░░░░░ 40% |
-
----
-
-## 🎮 Intérêts Personnels
-
-- ⚽ **Football** - Grand fan de la beauté du jeu
-- 🎮 **Gaming** - Développeur passionné et gamer
-- 🐧 **GNU/Linux** - Explorateur du monde open-source
-- 🔐 **Cybersécurité** - Fasciné par la protection des données
-- 📚 **Apprentissage continu** - Toujours curieux d'apprendre
-
----
-
-## 💡 Citation Préférée
-
-> "La sécurité n'est pas une destination, c'est un voyage." - Abderrahim Hamdi
-
----
-
-<div align="center">
-
-### ⭐ Si vous aimez ce que vous voyez, n'oubliez pas de donner une ⭐ à mes repositories !
-
-**Fait avec ❤️ par Abderrahim Hamdi** | Tunisie 🇹🇳
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%" alt="Broken system!"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="10%" alt="It's working!"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" alt="It's working but you don't know how!"/><br>
 
 </div>
